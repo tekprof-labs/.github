@@ -69,6 +69,6 @@ Our first product. Digitises invoices and income with **local AI** — your data
 
 ---
 
-📧 [admin@tekprof.com](mailto:admin@tekprof.com) &nbsp;·&nbsp; 🌐 [tekprof.com](https://tekprof.com) &nbsp;·&nbsp; 📍 Madrid · Las Palmas · Remote
+📧 [admin@tekprof.com](mailto:admin@tekprof.com) &nbsp;·&nbsp; 🌐 [tekprof.com](https://tekprof.com) &nbsp;·&nbsp; 📍 Las Palmas · Remote
 
 *Built with craft. Delivered with purpose.*
